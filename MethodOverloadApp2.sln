@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverload", "MethodOverload\MethodOverload.csproj", "{DFCFA482-944D-4EBD-B9AB-FCAB6265EDB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionDemo", "ExtensionDemo\ExtensionDemo.csproj", "{A54875D6-6DF8-4C5C-9AB7-3537BA715A7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DFCFA482-944D-4EBD-B9AB-FCAB6265EDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFCFA482-944D-4EBD-B9AB-FCAB6265EDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFCFA482-944D-4EBD-B9AB-FCAB6265EDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54875D6-6DF8-4C5C-9AB7-3537BA715A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54875D6-6DF8-4C5C-9AB7-3537BA715A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54875D6-6DF8-4C5C-9AB7-3537BA715A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54875D6-6DF8-4C5C-9AB7-3537BA715A7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
